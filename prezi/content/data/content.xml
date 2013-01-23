@@ -1,0 +1,1211 @@
+<zuiprezi>
+  <version>5</version>
+  <zui-table>
+    <settings>
+      
+      <autoplay>
+        
+        <delay>4000</delay>
+        
+      </autoplay>
+      
+      <bounds x="-722513.7158790666" y="-546499.2381149315" width="1445027.4317581332" height="1092998.4762298628"/>
+      <aspectratio>off</aspectratio>
+      <languages>
+        <language>en</language>
+      </languages>
+    </settings>
+    <object id="9" type="button" x="2.688297203873428e-11" y="-4954.245909794624" r="0" s="1361.1788166523486" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>1063.5505079529582</w>
+        <h>797.6628809647191</h>
+      </size>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="8" type="button" x="-469303.5360862266" y="12614.9266129758" r="0" s="291.2037157992483" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="2" type="button" x="462063.02716577245" y="20976.091300065455" r="0" s="299.50922565615707" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="5" type="shape" x="-143746.74198911517" y="50623.3414823513" r="22.36655741771997" s="2162.313759587233" class="line3">
+      <geom type="arrow">
+        <sp>83.53410788040695 11.93749999999998</sp>
+        <ep>-83.53410788040694 11.937500000000009</ep>
+        <b>23.87499999999999</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="0_21112010" type="button" x="8294.408884802207" y="352703.0843572139" r="0" s="422.36249396084014" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="2_21112010" type="shape" x="148075.45147349968" y="51645.06304396276" r="155.44894326655412" s="2162.3137595872304" class="line3">
+      <geom type="arrow">
+        <sp>76.6586713372625 -11.324293951770896</sp>
+        <ep>-76.6586713372625 -11.324293951770915</ep>
+        <b>-22.648587903541813</b>
+        <t>8</t>
+      </geom>
+      <meta>
+        <parentTemplate>decision_3D</parentTemplate>
+      </meta>
+    </object>
+    <object id="141_20868064" type="label" x="1246.231991705529" y="-396132.7910041417" r="0" s="1985.424869049804" class="head">
+      <textfield autoSize="true">
+        <x>-141.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[Coding Performance]]></text>
+        <w>283.25</w>
+        <h>36.65</h>
+        <annotations>r0-18 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="142_20868064" type="label" x="529.2389359338068" y="-288740.6831312118" r="0" s="1453.1404331235103" class="strong">
+      <textfield autoSize="true">
+        <x>-178.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Why C is not faster than Python]]></text>
+        <w>356.3</w>
+        <h>35</h>
+        <annotations>r0-31 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="143_20868064" type="label" x="8331.219472802015" y="289555.811359825" r="0" s="919.7032320290556" class="head">
+      <textfield>
+        <x>-138.25</x>
+        <y>-34.65</y>
+        <text><![CDATA[Everybody knows
+C is faster than python]]></text>
+        <w>276.5</w>
+        <h>69.3</h>
+        <annotations>r0-16 { align: center; }
+r16-39 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="144_20868064" type="label" x="-12638.879217259046" y="368365.26490461914" r="0" s="919.7032320290556" class="body">
+      <textfield>
+        <x>-154.25</x>
+        <y>-32.95</y>
+        <text><![CDATA[Better memory management
+Close to the metal]]></text>
+        <annotations>r0-25 { bullet: true; }
+r0-25 { align: left; }
+r0-25 { blockIndent: 36; }
+r25-43 { bullet: true; }
+r25-43 { align: left; }
+r25-43 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="145_20868064" type="label" x="-469311.0547535108" y="-53453.12149114895" r="0" s="1184.5327536999096" class="head">
+      <textfield autoSize="true">
+        <x>-27.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[C]]></text>
+        <w>55.25</w>
+        <h>36.65</h>
+        <annotations>r0-1 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="147_20868064" type="label" x="454753.56791668973" y="-46665.27754803612" r="0" s="791.4033428214918" class="head">
+      <textfield autoSize="true">
+        <x>-62.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[Python]]></text>
+        <w>125.45</w>
+        <h>36.65</h>
+        <annotations>r0-6 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_11564704" type="label" x="-470373.38126394665" y="29709.866972535197" r="0" s="456.47251921265786" class="body">
+      <textfield>
+        <x>-194.7</x>
+        <y>-94.85</y>
+        <text><![CDATA["[C] was designed ... to provide low-level access to memory, to provide language constructs that map efficiently to machine instructions, and to require minimal run-time support."
+~ Wikipedia]]></text>
+        <w>389.45</w>
+        <h>189.7</h>
+        <annotations>r0-180 { align: left; }
+r180-191 { align: right; }</annotations>
+      </textfield>
+    </object>
+    <object id="1_11564704" type="label" x="462809.8690702865" y="35930.15754455105" r="0" s="381.6474399975919" class="body">
+      <textfield>
+        <x>-224.15</x>
+        <y>-125.8</y>
+        <text><![CDATA["Python ... lets you work more quickly and integrate your systems more effectively. 
+
+You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs."
+
+~ Python.org]]></text>
+        <w>448.3</w>
+        <h>251.6</h>
+        <annotations>r0-85 { align: left; }
+r86-191 { align: left; }
+r192-204 { align: right; }</annotations>
+      </textfield>
+    </object>
+    <object id="0" type="label" x="81.86150436380917" y="-210325.0006851223" r="0" s="1453.1404331235103" class="strong">
+      <textfield autoSize="true">
+        <x>-178.15</x>
+        <y>-17.5</y>
+        <text><![CDATA[Darren Wurf]]></text>
+        <w>356.3</w>
+        <h>35</h>
+        <annotations>r0-11 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="0_306707" type="button" x="5199.616932349472" y="466370.4224910694" r="0" s="385.2031892560345" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>151.46935378586585</w>
+        <h>90.06629500518125</h>
+      </size>
+    </object>
+    <object id="1_306707" type="labelwithplaceholder" x="3058.5003499157388" y="450809.0837081109" r="0" s="250.38207301642237" class="head">
+      <placeholder text="Click to add text" x="-99.2" y="-18.3" align="center" width="198.4"/>
+    </object>
+    <object id="2_306707" type="label" x="4138.24018611527" y="464829.16796063364" r="0" s="173.3414351652155" class="strong">
+      <textfield autoSize="true">
+        <x>-88.45</x>
+        <y>-17.5</y>
+        <text><![CDATA[But is it true?]]></text>
+        <w>176.95</w>
+        <h>35</h>
+        <annotations>r0-15 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="3_306707" type="button" x="-45359.741849035665" y="522098.3472893557" r="18.152447615578513" s="50.86477237009291" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>398.0749003275814</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="4_306707" type="label" x="-43898.42349837872" y="517920.4505738422" r="18.152447615578538" s="69.22131929321806" class="head">
+      <textfield autoSize="true">
+        <x>-128.3</x>
+        <y>-18.3</y>
+        <text><![CDATA["Everyday" coding]]></text>
+        <w>256.65</w>
+        <h>36.65</h>
+        <annotations>r0-17 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="5_306707" type="label" x="-45602.503551631686" y="522756.06213476125" r="18.152447615578524" s="47.01762824424681" class="strong">
+      <textfield>
+        <x>-130.05</x>
+        <y>-64</y>
+        <text><![CDATA[Server administration
+Process automation
+Data processing
+Reporting]]></text>
+        <annotations>r0-22 { bullet: true; }
+r0-22 { align: left; }
+r0-22 { blockIndent: 36; }
+r22-41 { bullet: true; }
+r22-41 { align: left; }
+r22-41 { blockIndent: 36; }
+r41-57 { bullet: true; }
+r41-57 { align: left; }
+r41-57 { blockIndent: 36; }
+r57-66 { bullet: true; }
+r57-66 { align: left; }
+r57-66 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="6_306707" type="button" x="-50765.73450123469" y="539789.1511315717" r="18.152447615578517" s="32.75707190711971" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="7_306707" type="label" x="-49867.753076023524" y="537084.4377132561" r="18.152447615578513" s="28.80035222372193" class="head">
+      <textfield autoSize="true">
+        <x>-176.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Not "Performance" coding]]></text>
+        <w>353.85</w>
+        <h>36.65</h>
+        <annotations>r0-24 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="8_306707" type="label" x="-51465.48095037763" y="540658.3262959777" r="18.152447615578513" s="22.362874973336716" class="strong">
+      <textfield>
+        <x>-217.7</x>
+        <y>-64</y>
+        <text><![CDATA[Device drivers
+Embedded systems (somewhat)
+Graphics/physics engines
+Database engines]]></text>
+        <w>435.45</w>
+        <h>128</h>
+        <annotations>r0-15 { bullet: true; }
+r0-15 { align: center; }
+r0-15 { blockIndent: 36; }
+r15-43 { bullet: true; }
+r15-43 { align: center; }
+r15-43 { blockIndent: 36; }
+r43-68 { bullet: true; }
+r43-68 { align: center; }
+r43-68 { blockIndent: 36; }
+r68-84 { bullet: true; }
+r68-84 { align: center; }
+r68-84 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="9_306707" type="button" x="377796.48825996555" y="168148.96209371608" r="28.201001687627517" s="104.91586946002525" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="10_306707" type="label" x="390630.92353147233" y="144201.89952612508" r="28.20100168762751" s="407.27536878059135" class="head">
+      <textfield autoSize="true">
+        <x>-34.9</x>
+        <y>-18.3</y>
+        <text><![CDATA[Goals]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="11_306707" type="label" x="366982.27706733055" y="147715.56844861052" r="28.20100168762751" s="407.27536878059135" class="strong">
+      <textfield autoSize="true">
+        <x>-8.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[C]]></text>
+        <annotations>r0-1 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="12_306707" type="label" x="399025.06630716496" y="165486.8391478111" r="28.20100168762752" s="349.20461789956425" class="strong">
+      <textfield autoSize="true">
+        <x>-37.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[Python]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="13_306707" type="label" x="357757.32547199243" y="164142.77073692722" r="28.20100168762752" s="195.98945230696174" class="body">
+      <textfield autoSize="true">
+        <x>-83.4</x>
+        <y>-63.9</y>
+        <text><![CDATA[Low-level
+Efficient
+Minimal
+Replace ASM
+]]></text>
+        <annotations>r0-10 { bullet: true; }
+r0-10 { align: left; }
+r0-10 { blockIndent: 36; }
+r10-20 { bullet: true; }
+r10-20 { align: left; }
+r10-20 { blockIndent: 36; }
+r20-28 { bullet: true; }
+r20-28 { align: left; }
+r20-28 { blockIndent: 36; }
+r28-40 { bullet: true; }
+r28-40 { align: left; }
+r28-40 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="14_306707" type="label" x="390891.3184511247" y="178463.3528556567" r="28.20100168762752" s="195.98945230696174" class="body">
+      <textfield>
+        <x>-81.95</x>
+        <y>-48.4</y>
+        <text><![CDATA[High-level
+Productive
+Maintainable
+]]></text>
+        <annotations>r0-11 { bullet: true; }
+r0-11 { align: left; }
+r0-11 { blockIndent: 36; }
+r11-22 { bullet: true; }
+r11-22 { align: left; }
+r11-22 { blockIndent: 36; }
+r22-35 { bullet: true; }
+r22-35 { align: left; }
+r22-35 { blockIndent: 36; }</annotations>
+      </textfield>
+    </object>
+    <object id="15_306707" type="button" x="383966.1703740769" y="188625.4625787992" r="28.20100168762751" s="26.430782719325148" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>400</w>
+        <h>300</h>
+      </size>
+    </object>
+    <object id="16_306707" type="label" x="384312.45340363815" y="187982.2697230268" r="28.20100168762752" s="24.942072914260997" class="body">
+      <textfield autoSize="true">
+        <x>-115.15</x>
+        <y>-17.45</y>
+        <text><![CDATA[Replace Java? ;-)]]></text>
+        <w>230.3</w>
+        <h>34.95</h>
+        <annotations>r0-17 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="17_306707" type="labelwithplaceholder" x="384490.76271465403" y="187647.14306780943" r="28.20100168762751" s="11.893852223696317" class="strong">
+      <placeholder text="Click to add text" x="-85.95" y="-17.5" align="center" width="171.9"/>
+    </object>
+    <object id="18_306707" type="button" x="-49238.28346958299" y="-4307.82230637007" r="30.92468607915496" s="122.35903296796072" class="circle">
+      <type>circle</type>
+      <size>
+        <w>800</w>
+        <h>800</h>
+      </size>
+    </object>
+    <object id="19_306707" type="label" x="-36626.399654765635" y="-25365.662831307527" r="30.92468607915496" s="309.1151846251001" class="head">
+      <textfield>
+        <x>-116.2</x>
+        <y>-34.65</y>
+        <text><![CDATA[Scenario 1:
+Disk usage report]]></text>
+        <w>232.4</w>
+        <h>69.3</h>
+        <annotations>r0-12 { align: center; }
+r12-29 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="20_306707" type="label" x="-48205.225267600035" y="-8249.20575239901" r="30.92468607915493" s="227.7024984389295" class="strong">
+      <textfield>
+        <x>-171.8</x>
+        <y>-33</y>
+        <text><![CDATA[Find the top 10 largest directories on the filesystem]]></text>
+        <w>343.6</w>
+        <h>66</h>
+        <annotations>r0-53 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="25_306707" type="button" x="-75275.8874782646" y="-6678.983122425204" r="30.92468607915495" s="14.62282419206759" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>799.4984567901234</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="26_306707" type="label" x="-76468.86647270873" y="-5229.650537827445" r="30.924686079154963" s="22.66910359657848" class="body">
+      <textfield>
+        <x>-123.25</x>
+        <y>-63.9</y>
+        <text><![CDATA[/path/to/dir1 (1512 MB)
+/path/to/dir2 (1125 MB)
+/path/to/dir3 (965 MB)
+(... top 10)]]></text>
+        <w>246.55</w>
+        <h>127.8</h>
+        <annotations>r71-83 { color: #7a8082; }
+r0-24 { align: left; }
+r24-48 { align: left; }
+r48-71 { align: left; }
+r71-83 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="29_306707" type="label" x="-74239.91602648812" y="-8911.826224210454" r="30.924686079154963" s="22.66910359657848" class="body">
+      <textfield>
+        <x>-123.25</x>
+        <y>-63.9</y>
+        <text><![CDATA[8       /media
+45468   /boot
+264     /boot/grub
+(... 30k lines)]]></text>
+        <w>246.55</w>
+        <h>127.8</h>
+        <annotations>r48-63 { color: #7a8082; }
+r0-15 { align: left; }
+r15-29 { align: left; }
+r29-48 { align: left; }
+r48-63 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="30_306707" type="label" x="-79852.43496042455" y="-7562.207262812403" r="30.924686079154945" s="14.11405247651866" class="strong">
+      <textfield autoSize="true">
+        <x>-61.75</x>
+        <y>-17.5</y>
+        <text><![CDATA[Final report]]></text>
+        <annotations>r0-12 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="31_306707" type="image" x="-66542.11180579488" y="2280.6173896688397" r="18.771950465801826" s="14.397550771197196">
+      <source w="506" h="249">432767980.png<url>432767980.png</url>
+      </source>
+      <sourceUrl>pseudocode2.png</sourceUrl>
+    <resource><id>
+        432767980
+        </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/d/b/c/ed0af470ef3880b7a9087730a0f7f3b6f3517.png</url></resource></object>
+    <object id="32_306707" type="button" x="-55207.59296740893" y="2992.303398230522" r="11.853734457875975" s="8.636246888855526" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>798.4435797665369</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="33_306707" type="label" x="-54963.970381176354" y="1146.950704836373" r="11.853734457875978" s="20.35150179901394" class="head">
+      <textfield autoSize="true">
+        <x>-45.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[Results]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="34_306707" type="label" x="-55313.509755776504" y="1828.6771244422603" r="11.853734457875982" s="9.552213619211859" class="strong">
+      <textfield autoSize="true">
+        <x>-59.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Time taken]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="35_306707" type="label" x="-53434.484814605596" y="2219.8770877947836" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-70.05</x>
+        <y>-17.5</y>
+        <text><![CDATA[Lines of code]]></text>
+        <annotations>r0-13 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="36_306707" type="label" x="-57180.07908153689" y="2247.0569859553143" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-8.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[C]]></text>
+        <annotations>r0-1 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="37_306707" type="label" x="-57334.478249211454" y="3013.3162606516876" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-37.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[Python]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="38_306707" type="label" x="-57517.688048777374" y="3854.076938246019" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-27.95</x>
+        <y>-17.5</y>
+        <text><![CDATA[Shell]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="39_306707" type="label" x="-55554.497753284515" y="2593.347657904164" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-21.2</x>
+        <y>-17.45</y>
+        <text><![CDATA[9ms]]></text>
+        <annotations>r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="40_306707" type="label" x="-53612.23376563134" y="3065.4030478548593" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-13.25</x>
+        <y>-17.45</y>
+        <text><![CDATA[41]]></text>
+        <annotations>r0-2 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="42_306707" type="label" x="-53841.15640568151" y="3897.7677269602814" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-13.3</x>
+        <y>-17.45</y>
+        <text><![CDATA[18]]></text>
+        <annotations>r0-2 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="44_306707" type="label" x="-55708.93382392215" y="3359.487462566343" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-26.9</x>
+        <y>-17.45</y>
+        <text><![CDATA[58ms]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="45_306707" type="label" x="-54005.2658961563" y="4675.1922301747345" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-7.65</x>
+        <y>-17.45</y>
+        <text><![CDATA[5]]></text>
+        <annotations>r0-1 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="47_306707" type="label" x="-55891.72649890529" y="4200.343232999469" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-26.9</x>
+        <y>-17.45</y>
+        <text><![CDATA[32ms]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="64_306707" type="button" x="-57360.12966756664" y="13089.020586223192" r="11.853734457875978" s="8.636246888855524" class="bracket">
+      <type>bracket</type>
+      <size>
+        <w>798.4435797665369</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="65_306707" type="label" x="-57116.507081334035" y="11243.66789282903" r="11.853734457875984" s="20.35150179901394" class="head">
+      <textfield autoSize="true">
+        <x>-45.6</x>
+        <y>-18.3</y>
+        <text><![CDATA[Results]]></text>
+        <annotations>r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="66_306707" type="label" x="-57367.8498049145" y="11919.071030488223" r="11.853734457875982" s="9.552213619211859" class="strong">
+      <textfield autoSize="true">
+        <x>-59.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[Time taken]]></text>
+        <annotations>r0-10 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="68_306707" type="label" x="-59607.20469265466" y="12107.2918376696" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-8.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[C]]></text>
+        <annotations>r0-1 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="69_306707" type="label" x="-59718.97493767755" y="12756.443469133976" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-37.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[Python]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="70_306707" type="label" x="-59914.12944587654" y="13474.927321479718" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-27.95</x>
+        <y>-17.5</y>
+        <text><![CDATA[Shell]]></text>
+        <annotations>r0-5 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="71_306707" type="label" x="-57556.17742755509" y="12570.531957682291" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-21.2</x>
+        <y>-17.45</y>
+        <text><![CDATA[9ms]]></text>
+        <annotations>r0-3 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="76_306707" type="label" x="-57667.98457554105" y="13219.564119112467" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-26.9</x>
+        <y>-17.45</y>
+        <text><![CDATA[58ms]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="79_306707" type="label" x="-57862.7219591573" y="13938.14306429701" r="11.853734457875978" s="9.552213619211857" class="body">
+      <textfield autoSize="true">
+        <x>-26.9</x>
+        <y>-17.45</y>
+        <text><![CDATA[32ms]]></text>
+        <annotations>r0-4 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="80_306707" type="label" x="-60031.52488504838" y="14211.747028025893" r="11.853734457875978" s="9.552213619211857" class="strong">
+      <textfield autoSize="true">
+        <x>-34.45</x>
+        <y>-17.5</y>
+        <text><![CDATA[du -Sk]]></text>
+        <annotations>r0-6 { color: #f00; }
+r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="81_306707" type="label" x="-57958.77456265831" y="14650.160682600414" r="11.853734457875982" s="9.552213619211859" class="body">
+      <textfield autoSize="true">
+        <x>-52.25</x>
+        <y>-17.45</y>
+        <text><![CDATA[109,974ms]]></text>
+        <annotations>r0-9 { color: #f00; }
+r0-9 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="82_306707" type="label" x="-77826.20760454214" y="-11344.34798939728" r="30.924686079154945" s="14.11405247651866" class="strong">
+      <textfield autoSize="true">
+        <x>-34.45</x>
+        <y>-17.5</y>
+        <text><![CDATA[du -Sk]]></text>
+        <annotations>r0-6 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="84_306707" type="label" x="175880.79428490764" y="-3912.3894746929286" r="-0.5179917893984378" s="13.457074135406302" class="head">
+      <textfield autoSize="true">
+        <x>-119.7</x>
+        <y>-18.3</y>
+        <text><![CDATA[What does it mean?]]></text>
+        <annotations>r0-18 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="85_306707" type="label" x="175961.2006341117" y="-1006.9681047968865" r="-0.5179917893984379" s="14.776472834061867" class="strong">
+      <textfield autoSize="true">
+        <x>-107.2</x>
+        <y>-17.5</y>
+        <text><![CDATA[We are bound by I/O]]></text>
+        <annotations>r0-19 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="86_306707" type="label" x="191743.50995505886" y="-12127.597911656598" r="-88.1444378907688" s="40.009191425384735" class="strong">
+      <textfield>
+        <x>-102.35</x>
+        <y>-48.5</y>
+        <text><![CDATA[Code takes <0.01%
+ of the execution time]]></text>
+        <w>204.75</w>
+        <h>97</h>
+        <annotations>r0-18 { align: center; }
+r18-40 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="87_306707" type="label" x="199752.89977880436" y="-20708.404632811795" r="-179.9559726603533" s="14.776472834061867" class="strong">
+      <textfield>
+        <x>-102.35</x>
+        <y>-17.5</y>
+        <text><![CDATA[C ~= Python]]></text>
+        <w>204.75</w>
+        <h>35</h>
+        <annotations>r0-11 { align: center; }</annotations>
+      </textfield>
+    </object>
+    <object id="91_306707" type="button" x="200307.0466871512" y="-26650.88789489901" r="-179.9559726603533" s="0.3297663393643797" class="invisible">
+      <type>invisible</type>
+      <size>
+        <w>799.0453460620524</w>
+        <h>600</h>
+      </size>
+    </object>
+    <object id="92_306707" type="label" x="200310.39339991513" y="-26614.479716648515" r="-179.9559726603533" s="0.843625140158354" class="strong">
+      <textfield autoSize="true">
+        <x>-112.85</x>
+        <y>-17.5</y>
+        <text><![CDATA[Next time, just use sh]]></text>
+        <annotations>r0-22 { align: left; }</annotations>
+      </textfield>
+    </object>
+    <object id="93_306707" type="label" x="200307.05" y="-26690.2" r="-179.9559726603533" s="0.6365348960800388" class="strong">
+      <textfield autoSize="true">
+        <x>-43.55</x>
+        <y>-17.5</y>
+        <text><![CDATA[The end]]></text>
+        <annotations>r0-7 { color: #000; }
+r0-7 { align: left; }</annotations>
+      </textfield>
+    </object>
+  </zui-table>
+  <background>
+    <layer depth="248.9128299243237" fadescale="0.008838435530498207">
+      <object id="background182565118" type="image" x="-2288.1442953666206" y="-49012.69029315162" r="0" s="869.2223688481498">
+        <source w="2500" h="1667">182565118.jpg<url>182565118.jpg</url>
+        </source>
+        <sourceUrl>Road_steg1_kicsi.jpg</sourceUrl>
+      <resource><id>
+          182565118
+          </id><url>http://0103.static.prezi.com.s3.amazonaws.com/media/c/c/7/1a9de315f5ed6acf2c1b8857b2152f7cad48a.jpg</url></resource></object>
+    </layer>
+  </background>
+  <path>
+    <s>
+      <eagle o="9"/>
+    </s>
+    <s>
+      <eagle o="0_21112010"/>
+    </s>
+    <s>
+      <eagle o="0_306707"/>
+    </s>
+    <s>
+      <eagle o="3_306707"/>
+    </s>
+    <s>
+      <eagle o="6_306707"/>
+    </s>
+    <s>
+      <eagle o="8"/>
+    </s>
+    <s>
+      <eagle o="2"/>
+    </s>
+    <s>
+      <eagle o="9_306707"/>
+    </s>
+    <s>
+      <eagle o="15_306707"/>
+    </s>
+    <s>
+      <eagle o="18_306707"/>
+    </s>
+    <s>
+      <eagle o="25_306707"/>
+    </s>
+    <s>
+      <eagle o="31_306707"/>
+    </s>
+    <s>
+      <eagle o="32_306707"/>
+    </s>
+    <s>
+      <eagle o="64_306707"/>
+    </s>
+    <s>
+      <buildin o="80_306707"/>
+    </s>
+    <s>
+      <buildin o="81_306707"/>
+    </s>
+    <s>
+      <eagle o="84_306707"/>
+    </s>
+    <s>
+      <eagle o="85_306707"/>
+    </s>
+    <s>
+      <eagle o="86_306707"/>
+    </s>
+    <s>
+      <eagle o="87_306707"/>
+    </s>
+    <s>
+      <eagle o="91_306707"/>
+    </s>
+    <s>
+      <buildin o="93_306707"/>
+    </s>
+  </path>
+  <style type="text/css"><![CDATA[
+@font-face
+{
+	src: url('OpenSans-Bold.swf');
+	fontFamily: head;
+}
+
+@font-face
+{
+	src: url('CrimsonText.swf');
+	fontFamily: body;
+}
+
+@font-face
+{
+	src: url('PTSans.swf');
+	fontFamily: strong;
+}
+
+background
+{
+	gradEnd: #808080;
+	gradStart: #808080;
+}
+
+text
+{
+	padding: 1.2;
+}
+
+text.title
+{
+	fontFamily: head;
+	color: #fff808;
+}
+
+text.subtitle
+{
+	fontFamily: strong;
+	color: #fff;
+}
+
+text.body
+{
+	fontFamily: body;
+	color: #fff;
+}
+
+frame.circle
+{
+	borderColor: #999;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+frame.bracket
+{
+	thickness: 7;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #fff;
+}
+
+frame.rectangle
+{
+	gradStartColor: #000;
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #000;
+	radius: 0;
+}
+
+arrow
+{
+	borderColor: #fff;
+	borderThickness: -1;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+line
+{
+	color: #fff808;
+}
+
+line-arrow.style1
+{
+	gradStartColor: #fff;
+	gradEndColor: #fff;
+	color: #fff;
+}
+
+line-arrow.style2
+{
+	gradStartColor: #c5c3c3;
+	gradEndColor: #c5c3c3;
+	color: #c5c3c3;
+}
+
+line-arrow.style3
+{
+	gradStartColor: #fff808;
+	gradEndColor: #fff808;
+	color: #fff808;
+}
+
+line-arrow.style4
+{
+	gradStartColor: #333;
+	gradEndColor: #333;
+	color: #333;
+}
+
+line-arrow.style5
+{
+	gradStartColor: #000;
+	gradEndColor: #000;
+	color: #000;
+}
+
+circle
+{
+	lockTintAlpha: 0.6;
+	thickness: 100;
+	borderAlpha: 1;
+	radius: 0;
+}
+
+shape
+{
+	lockTintAlpha: 0.6;
+	borderAlpha: 1;
+	gradEndAlpha: 0.8;
+	thickness: 100;
+	gradStartAlpha: 0.7;
+	radius: 0;
+}
+
+shape.style1
+{
+	borderColor: #fff;
+	borderThickness: 0;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+shape.style2
+{
+	borderColor: #c5c3c3;
+	borderThickness: 0;
+	gradEndColor: #c5c3c3;
+	gradStartColor: #c5c3c3;
+}
+
+shape.style3
+{
+	borderColor: #fff808;
+	borderThickness: 0;
+	gradEndColor: #fff808;
+	gradStartColor: #fff808;
+}
+
+shape.style4
+{
+	borderColor: #333;
+	borderThickness: 0;
+	gradEndColor: #333;
+	gradStartColor: #333;
+}
+
+shape.style5
+{
+	borderColor: #000;
+	borderThickness: 0;
+	gradEndColor: #000;
+	gradStartColor: #000;
+}
+
+free-line
+{
+	color: #fff808;
+}
+
+free-marker
+{
+	alpha: 0.3;
+	color: #ffff0d;
+}
+
+grid
+{
+	color: #ddd;
+}
+
+ZCircle
+{
+	lockTintAlpha: 0;
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	thickness: 100;
+	gradStartAlpha: 1;
+	radius: 0;
+}
+
+ZPoly
+{
+	lockTintAlpha: 0;
+	borderAlpha: 1;
+	gradEndAlpha: 1;
+	thickness: 100;
+	gradStartAlpha: 1;
+	radius: 0;
+}
+
+Background
+{
+	gradEnd: #2d3f3d;
+	gradStart: #8d9497;
+}
+
+ZLabel
+{
+	padding: 1.2;
+}
+
+ZLabel.head
+{
+	fontFamily: head;
+	color: #004f75;
+}
+
+.line5
+{
+	gradStartColor: #333;
+	gradEndColor: #333;
+	color: #333;
+}
+
+.poly5
+{
+	color: #5d696a;
+	borderColor: #333;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.strong
+{
+	fontFamily: strong;
+	color: #318bff;
+}
+
+.line1
+{
+	gradStartColor: #3fc0ff;
+	gradEndColor: #3fc0ff;
+	color: #3fc0ff;
+}
+
+.poly1
+{
+	color: #5d696a;
+	borderColor: #3fc0ff;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLabel.body
+{
+	fontFamily: body;
+	color: #333;
+}
+
+ZFrame.circle
+{
+	thickness: 10;
+	borderColor: #004f75;
+	borderThickness: 0;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+}
+
+.line4
+{
+	gradStartColor: #ffbe00;
+	gradEndColor: #ffbe00;
+	color: #ffbe00;
+}
+
+.poly4
+{
+	color: #5d696a;
+	borderColor: #004f75;
+	borderThickness: 0;
+	gradEndColor: #004f75;
+	gradStartColor: #004f75;
+}
+
+ZFrame.bracket
+{
+	thickness: 10;
+	borderColor: #b2b2b2;
+	borderThickness: 0;
+	gradEndColor: #b2b2b2;
+	gradStartColor: #b2b2b2;
+}
+
+.line2
+{
+	color: #f00;
+	borderColor: #fff;
+	gradEndColor: #f00;
+	gradStartColor: #f00;
+}
+
+.poly2
+{
+	color: #5d696a;
+	borderColor: #3fc0ff;
+	borderThickness: 0;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+ZFrame.roundrect
+{
+	borderColor: #3fc0ff;
+	borderThickness: 0;
+	gradEndColor: #3fc0ff;
+	gradStartColor: #3fc0ff;
+}
+
+ZArrow
+{
+	lockTintAlpha: 0;
+	gradEndAlpha: 1;
+	gradEndColor: #333;
+	gradStartAlpha: 1;
+	gradStartColor: #333;
+}
+
+.line3
+{
+	gradStartColor: #004f75;
+	gradEndColor: #004f75;
+	color: #004f75;
+}
+
+.poly3
+{
+	color: #5d696a;
+	borderColor: #004f75;
+	borderThickness: 9;
+	gradEndColor: #fff;
+	gradStartColor: #fff;
+}
+
+ZLine
+{
+	lockTintAlpha: 0;
+	color: #333;
+}
+
+ZCurveLine
+{
+	color: #333;
+}
+
+ZMarker
+{
+	alpha: 0.3;
+	color: #00e1ff;
+}
+
+Grid
+{
+	color: #7f8f91;
+}
+
+ZPath
+{
+	textColor: #fff;
+	thickness: 3;
+	alpha: 1;
+	color: #40abe6;
+}
+
+ZPath Ball.mid
+{
+	fillColor: #40abe6;
+	alpha: .5;
+	radius: 8;
+}
+
+ZPath Ball.base
+{
+	fillColor: #40abe6;
+	alpha: 1;
+	radius: 12;
+}
+
+]]></style>
+  <hash>5eb1578c</hash>
+<sync><oid>uxngm--lagzb</oid><hash>5eb1578c</hash></sync><config>ZOpHmG8K5jmiPL2PqhC7ILpq4f9Sb9zyPL8HoRtYQH995oKqTfjrgG0eSpMMRI5uTd4fombn0aU+U1ZzCFBn0n9jP4k2EbpF49CLAHq0MIoTX4wOMgWG037+ifZUqH3y4UB88DP4HECqrKu+e9hzwB9omFjPt+CkwTweZcyFtdoNKCzlJoQ3Diib0Wd+db32xwrWmvgcLaR73VIY8QaI8hJxccXeyYvJmxjAx2m8sX73MUvCRrQBk5N9Z3loxIKoR6n6em3EJcpsZEf0RSfE9v74Uv0y76u6Z6+E7pN3YYa0Kzbl4jblL7KMCJW5YKFAH6j66DCx6cDhHRiJyj9jWQ==</config></zuiprezi>
